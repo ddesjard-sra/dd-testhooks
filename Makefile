@@ -1,6 +1,6 @@
 # Makefile
-# Date:   09/25/2014
-# Author: Don Desjardin
+#   Date:   09/25/2014
+#   Author: Don Desjardin
 #
 all: echo
 
