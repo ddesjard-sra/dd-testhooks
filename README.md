@@ -3,5 +3,5 @@ dd-testhooks
 
 A place for don to test hooks
 
-NOW we're going to try github.com emails services
-AND ngrok on eng-unx14... http://6d87115d.ngrok.com
+Testing the new github-bot email.
+
