@@ -6,3 +6,4 @@ Add a line w/no bug
 Trying to conditionalize procmail
 ...and again 456
 ...again 789
+...test forward (nothing new)
