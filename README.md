@@ -7,3 +7,4 @@ Trying to conditionalize procmail
 ...and again 456
 ...again 789
 ...test forward (nothing new)
+...test forward (new rule)
