@@ -1,10 +1,25 @@
 dd-testhooks
 ============
 
-A place for don to test hooks
-
-Hmmmm, editing the README file.
-
-Lets edit this one 2 times between syncs
-
-Can't use hooks, but I can parse the output of the fetch
+Clean up
+1
+2
+3
+4
+5
+6
+7
+8
+8a
+8a
+9
+9a
+10
+11
+12
+13
+14
+15
+15
+15
+16
