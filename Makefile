@@ -7,3 +7,4 @@ all: echo
 echo:
 	echo HELLO
 	echo Added line
+	echo added line 2
