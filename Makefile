@@ -8,3 +8,4 @@ echo:
 	echo HELLO
 	echo Added line
 	echo added line 2
+	echo added line 3
