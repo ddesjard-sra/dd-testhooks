@@ -9,4 +9,4 @@ echo:
 	echo Added line
 	echo changes for pull request
 
-all: echo
+
