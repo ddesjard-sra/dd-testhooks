@@ -10,4 +10,5 @@ echo:
 	echo changes for pull request
 	echo another line
 	echo and yet another
+	echo change made by ddesjard (non-Stratus)
 
