@@ -1,3 +1,0 @@
-# Set the defaults (only works in git 1.8 or better)
-* text=auto
-*.bat text eol=crlf
